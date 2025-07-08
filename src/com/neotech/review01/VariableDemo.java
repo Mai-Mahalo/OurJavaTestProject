@@ -4,7 +4,9 @@ public class VariableDemo { //Class name needs to start from the capital letter.
 
 	// ALWAYS FORMAT YOUR CODE
 	// Command + Shift + f
-
+	
+	
+	// Test
 	public static void main(String[] args) {
 		
 		// Declare a variable
