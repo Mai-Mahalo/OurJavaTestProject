@@ -21,5 +21,23 @@ public class Test {
 	{
 		System.out.println("test");
 	}
+	public void test4()
+	{
+		System.out.println("test");
+	}
+	
+	public void test5()
+	{
+		System.out.println("test");
+	}
+
+	public void test6()
+	{
+		System.out.println("test");
+	}
+	public void test7()
+	{
+		System.out.println("test");
+	}
 
 }
